@@ -1,2 +1,1 @@
-# uci_bike_sharing
-Analysis on UCI's bike sharing dataset
+This is a quick and dirty analysis on UCI's bike sharing dataset (http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) that I did in Jupyter Notebooks. Please look at the PDF that presents the work done in the notebook. Here I look at various factors that might have an effect on the number of bikes rented in Washington D.C. and see if there's statistical significance comparing various categorical levels of a certain predictive feature and their relationship with bike count.
